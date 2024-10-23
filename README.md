@@ -1,8 +1,8 @@
 # Notes Application
 
-A lightweight and intuitive Notes Application built with Java Swing that allows users to create, save, edit, and delete text-based notes. The notes are stored as `.txt` files in a user-defined directory, and the application offers seamless access to saved notes.
+A light and intuitive Notes Application built with Java Swing that allows users to create, save, edit, and delete text-based notes. The notes are stored as `.txt` files in a user-defined directory, and the application offers seamless access to saved notes.
 
-## Key Features
+## 🌟 Key Features
 
 - **Simple Note Creation**: Create notes with a title and content easily.
 - **Save Notes**: Save your notes as `.txt` files in a chosen directory.
@@ -14,7 +14,7 @@ A lightweight and intuitive Notes Application built with Java Swing that allows 
 
 ---
 
-## Installation Guide
+## 💻 Installation Guide
 
 Follow these steps to set up and run the Notes Application:
 
@@ -22,6 +22,7 @@ Follow these steps to set up and run the Notes Application:
 
 - **Java Development Kit (JDK) 8 or higher** should be installed on your machine.
   - [Download JDK](https://www.oracle.com/java/technologies/javase-downloads.html) if you don't have it installed.
+- **integrated development environment (IDE)** It is recommended to use visual studio code **(VSCode)**
 
 ### Steps to Install
 
@@ -46,7 +47,7 @@ Follow these steps to set up and run the Notes Application:
 
 ---
 
-## User Guide
+## 📖 User Guide
 
 ### Initial Setup: Choosing Save Directory
 
@@ -74,7 +75,7 @@ Follow these steps to set up and run the Notes Application:
 
 ---
 
-## Troubleshooting
+## 🛠️ Troubleshooting
 
 ### Common Issues and Solutions:
 
@@ -98,7 +99,7 @@ Follow these steps to set up and run the Notes Application:
 
 ---
 
-## Frequently Asked Questions (FAQ)
+## ❓ Frequently Asked Questions (FAQ)
 
 ### How are notes saved?
 - Notes are saved as plain text files (`.txt`) in the directory you select upon first running the application. You can change this directory anytime using the **Change Path** button.
@@ -111,6 +112,11 @@ Follow these steps to set up and run the Notes Application:
 
 ---
 
-## Image
+## 📚 Footnotes
+- Nimbus Look and Feel: The app uses the Nimbus theme to provide a modern interface.
+- Java Swing: The core GUI framework used for this application.
+- File-based Configuration: Configs and notes are saved locally without requiring external databases.
+
+## 🖼️ Image
 ![alt text](image.png)
 
