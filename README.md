@@ -29,7 +29,7 @@ Follow these steps to set up and run the Notes Application:
 1. **Clone or Download the Repository**:
    - Clone the repository to your local machine using:
      ```bash
-     git clone https://github.com/your-repository/notes-app.git
+     git clone https://github.com/MalekAlharbi/MyNote.git
      ```
    - Or, download the project as a ZIP file and extract it.
 
