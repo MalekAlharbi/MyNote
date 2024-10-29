@@ -1,6 +1,6 @@
 # Notes Application
 
-A light and intuitive Notes Application built with Java Swing that allows users to create, save, edit, and delete text-based notes. The notes are stored as `.txt` files in a user-defined directory, and the application offers seamless access to saved notes.
+A simple Notes App made with Java Swing that lets users create, save, edit, and delete notes. The notes are saved as .txt files in a folder chosen by the user, and the app makes it easy to access them.
 
 ## 🌟 Key Features
 
